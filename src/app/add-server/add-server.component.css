@@ -1,0 +1,11 @@
+.all-place{
+    background: #f4f8fa !important;
+}
+.container-server{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding:20px;
+    background:white;
+    -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
